@@ -1,0 +1,47 @@
+
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-farmacia {
+    background-color: #0d6efd;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-farmacia .navbar-brand,
+.navbar-farmacia .nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+}
+
+.navbar-farmacia .nav-link:hover {
+    color: #e0e0e0 !important;
+}
+
+.card-custom {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+}
+
+.card-header-custom {
+    background-color: #0d6efd;
+    color: white;
+    font-weight: bold;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+.table-custom {
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.table-custom thead {
+    background-color: #343a40;
+    color: #ffffff;
+}
